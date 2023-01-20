@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main: #d93636;
+  --secoundary: #d93240;
+  --white: #fff;
+  --card-background: #f2f2f0;
+  --container: #bfbfbf;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-image: url("https://images.unsplash.com/photo-1554302891-c98c2d1e0d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW5pdmVyc298ZW58MHx8MHx8&w=1000&q=80");
+  overflow-x: hidden;
+}

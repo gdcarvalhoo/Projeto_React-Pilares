@@ -1,0 +1,11 @@
+.topo {
+  background-color: rgb(0, 0, 0, 0.3);
+}
+
+.lateral {
+  background-color: rgb(255, 255, 255, 0.03);
+}
+
+.centro {
+  width: 40vw;
+}

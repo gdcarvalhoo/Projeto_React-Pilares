@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0001",
+    "nome": "Alien Remix: ",
+    "subnome": "Special Edition",
+    "imagem": "https://i.imgur.com/B0fWUJf.png",
+    "preco": 375.46,
+    "descricao": ""
+  },
+  {
+    "id": "0002",
+    "nome": "Alien Remix: ",
+    "subnome": "Carl",
+    "imagem": "https://i.imgur.com/4SxaBGo.png",
+    "preco": 96.91,
+    "descricao": ""
+  },
+  {
+    "id": "0003",
+    "nome": "Alien Remix: ",
+    "subnome": "Russell",
+    "imagem": "https://i.imgur.com/p0ThjfY.png",
+    "preco": 94.91,
+    "descricao": ""
+  },
+  {
+    "id": "0004",
+    "nome": "Alien Remix: ",
+    "subnome": "Buzz",
+    "imagem": "https://i.imgur.com/RmIHQsp.png",
+    "preco": 159.91,
+    "descricao": ""
+  },
+  {
+    "id": "0005",
+    "nome": "Alien Remix: ",
+    "subnome": "Woody",
+    "imagem": "https://i.imgur.com/Mvy09zx.png",
+    "preco": 60.11,
+    "descricao": ""
+  },
+  {
+    "id": "0006",
+    "nome": "Alien Remix: ",
+    "subnome": "Zurg",
+    "imagem": "https://i.imgur.com/Zf397vf.png",
+    "preco": 129.99,
+    "descricao": ""
+  },
+  {
+    "id": "0007",
+    "nome": "Alien Remix: ",
+    "subnome": "Sulley",
+    "imagem": "https://i.imgur.com/2bV650i.png",
+    "preco": 156.91,
+    "descricao": ""
+  },
+  {
+    "id": "0008",
+    "nome": "Alien Remix: ",
+    "subnome": "Roz",
+    "imagem": "https://i.imgur.com/2XrIk0B.png",
+    "preco": 138.34,
+    "descricao": ""
+  },
+  {
+    "id": "0009",
+    "nome": "Alien Remix: ",
+    "subnome": "Wall-E",
+    "imagem": "https://i.imgur.com/ARdf4vi.png",
+    "preco": 93.11,
+    "descricao": ""
+  },
+  {
+    "id": "0010",
+    "nome": "Alien Remix: ",
+    "subnome": "Eve",
+    "imagem": "https://i.imgur.com/eN8ZCLZ.png",
+    "preco": 96.91,
+    "descricao": ""
+  },
+  {
+    "id": "0011",
+    "nome": "Alien Remix: ",
+    "subnome": "Sr. Incrível",
+    "imagem": "https://i.imgur.com/Yprqi89.png",
+    "preco": 136.25,
+    "descricao": ""
+  },
+  {
+    "id": "0012",
+    "nome": "Alien Remix: ",
+    "subnome": "Sra. Incrível",
+    "imagem": "https://i.imgur.com/kvZ8Rwy.png",
+    "preco": 136.25,
+    "descricao": ""
+  }
+]
